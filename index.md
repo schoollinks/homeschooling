@@ -2,7 +2,7 @@
 
 ## Morning
 
-* 8:30 AM [Submit Attendance on Learning Portal](https://sites.google.com/a/sthelenscollege.com/home/reception1-learning-portal)
+* 8:30 AM [Submit Attendance on Learning Portal](https://sites.google.com/a/sthelenscollege.com/home/reception1-learning-portal){:target="_blank"}
 * [Review timetable for the day](https://sites.google.com/a/sthelenscollege.com/home/reception1-learning-portal/home-learning)
 * Take print outs 
 * [Reading](https://www.activelearnprimary.co.uk/home#)
